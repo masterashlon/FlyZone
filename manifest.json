@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "FlyZone",
+  "short_name": "FlyZone",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#00d100",
+  "theme_color": "#00d100",
+  "description": "A flight search engine with real time data.",
+  "icons": [{
+    "src": "/lowres.webp",
+    "sizes": "48x48",
+    "type": "image/webp"
+  }, {
+    "src": "/logox72.ico",
+    "sizes": "72x72",
+    "type": "image/ico"
+  }, {
+    "src": "/logox96.ico",
+    "sizes": "96x96",
+    "type": "image/ico"
+  }, {
+    "src": "/logox128.ico",
+    "sizes": "128x128",
+    "type": "image/ico"
+  }, {
+    "src": "/logox256.ico",
+    "sizes": "256x256",
+    "type": "image/ico"
+  }, {
+    "src": "/hd_hi.svg",
+    "sizes": "any"
+  }, {
+    "src": "/maskable_icon_x384.png",
+    "size": "384x384",
+    "type": "image/png",
+    "purpose": "maskable" 
+  }, {
+    "src": "/maskable_icon_x512.png",
+    "size": "512x512",
+    "type": "image/png",
+    "purpose": "maskable" 
+  }]
+}

@@ -1,0 +1,7 @@
+@import "./reset.css";
+@import "./base.css";
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+
+:root {
+    --black-trasparent: hsla(0 0% 0% / .6);
+}
